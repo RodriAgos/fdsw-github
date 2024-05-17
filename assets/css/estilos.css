@@ -13,12 +13,24 @@ body {
 
 /* Mis trabajos */
 
+#Mis-trabajos{
+  background-color: #efe9e1;
+}
+
 #Mis-trabajos .image-top {
-  height: 250px;
+  height: 300px;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
   background-position: center;
 }
+
+.precio {
+  font-size: 30px;
+  opacity: 100%;
+  font-weight: bold;
+}
+
+
 
 /* Contacto */
 
